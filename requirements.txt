@@ -57,7 +57,7 @@ pandas==0.25.2
 pizzapi==0.0.6
 ply==3.11
 progressbar2==3.50.1
-protobuf==3.11.3
+protobuf==3.18.3
 punctuator==0.9.5
 pyasn1==0.4.5
 pyasn1-modules==0.2.3
